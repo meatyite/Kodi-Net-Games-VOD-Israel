@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.net-games-vod"
+version="2.3.1"
+name="Net Games VOD (Hebrew)"
+provider-name="sl4v">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Watch Hebrew Kid's Cartoons and Shows</summary>
+  <description lang="en_GB">Watch Hebrew Kid's Cartoons and shows from net-games.co.il</description>
+  <disclaimer lang="en_GB">Videos are provided by net-games and ynet.</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpeg</fanart>
+    <screenshot>resources\screenshot-01.jpg</screenshot>
+    <screenshot>resources\screenshot-02.jpg</screenshot>
+    <screenshot>resources\screenshot-03.jpg</screenshot>
+  </assets>
+  <news>Updated with latest artwork metadata</news>
+</extension>
+</addon>
