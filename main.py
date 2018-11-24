@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+# Module: default
+# Author: Roman V. M.
+# Created on: 28.11.2014
+# License: GPL v.3 https://www.gnu.org/copyleft/gpl.html
 
 import sys
 from urllib import urlencode
@@ -131,6 +135,56 @@ VIDEOS = {'Digimon': [{'name': 'Season 1 Episode 1',
                       'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/BbKmprmF.jpg',
                       'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/tusik/tusik4.mp4',
                       'genre': 'Animation'}
+                     ],
+            'Power Rangers': [{'name': 'Season 12 Episode 1',
+                      'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/PpnOkDKa.jpg',
+                      'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_1.mp4',
+                      'genre': 'Live Action'},
+                     {'name': 'Season 12 Episode 2',
+                      'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/hAeENDir.jpg',
+                      'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_2.mp4',
+                      'genre': 'Live Action'},
+                     {'name': 'Season 12 Episode 3',
+                      'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/BqMepQob.jpg',
+                      'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_3.mp4',
+                      'genre': 'Live Action'},
+                     {'name': 'Season 12 Episode 4',
+                      'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/HqAHAkDa.jpg',
+                      'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_4.mp4',
+                      'genre': 'Live Action'},
+                     {'name': 'Season 12 Episode 5',
+                      'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/rcNMndfh.jpg',
+                      'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_5.mp4',
+                      'genre': 'Live Action'},
+                     {'name': 'Season 12 Episode 6',
+                      'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/QQiPipeq.jpg',
+                      'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_6.mp4',
+                      'genre': 'Live Action'},
+                     {'name': 'Season 12 Episode 7',
+                      'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/HoOPbeCA.jpg',
+                      'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_7.mp4',
+                      'genre': 'Live Action'},
+                     {'name': 'Season 12 Episode 8',
+                      'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/COmBeHqg.jpg',
+                      'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_8.mp4',
+                      'genre': 'Live Action'},
+                     {'name': 'Season 12 Episode 9',
+                      'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/PdQFDkiE.jpg',
+                      'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_9.mp4',
+                      'genre': 'Live Action'},
+                 {'name': 'Season 12 Episode 10 ',
+                  'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/nfgJAHhC.jpg',
+                  'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_10.mp4',
+                  'genre': 'Live Action'},
+                 {'name': 'Season 12 Episode 11 ',
+                  'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/nNJDMOAB.jpg',
+                  'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_11.mp4',
+                  'genre': 'Live Action'},
+                 {'name': 'Season 12 Episode 12 ',
+                  'thumb': 'http://www.net-games.co.il/media/img/video_thumbs/mErChbNp.jpg',
+                  'video': 'http://mediadownload.ynet.co.il/netgames/net-games/zoom/power_rangers12/power_rangers_se12_ep_12.mp4',
+                  'genre': 'Live Action'}
+
                      ]}
 
 
